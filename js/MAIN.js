@@ -30,7 +30,7 @@ function renderTable(ds) {
                 <button class="btn btn-success" 
                 data-toggle="modal"
                     data-target="#myModal"
-                onclick="selectNvToUpdate('${nv.taiKhoan}')">Cap nhat</button>
+                onclick="selectNvToUpdate('${nv.taiKhoan}')">CẬP NHẬT</button>
                 <button class="btn btn-danger" 
                 onclick="deleteNhanvien('${nv.taiKhoan}')">Xoá</button>
             </td>
